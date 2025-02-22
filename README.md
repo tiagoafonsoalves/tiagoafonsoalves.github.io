@@ -7,6 +7,8 @@ _Software engineer based in Portugal 🏡 🇵🇹 🍷 🏢_
 
 ## 👩🏼‍💻 Engineering Experience
 
+### DevOps Engineer | Critical TechWorks _(06/2022 - present)_
+
 ### System Analyst | Retail Consult  _(04/2021 - 06/2022)_
 Working as System Analyst in the Integration solutions team where I was part of Oracle and Open Source integration solutions.
 
